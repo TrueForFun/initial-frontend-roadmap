@@ -1,13 +1,13 @@
 # RoadMap
 
-- [ ] Generate internet NickName (ex. dandgerson)
+- [x] Generate internet NickName (ex. dandgerson)
 - [ ] Register accounts and creat profile
 
-  - [ ] [github.com](github.com)
-    - [ ] follow dandgerson
-  - [ ] [linkedin.com](https://www.linkedin.com)
-    - [ ] follow dandgerson
-  - [ ] [codewars.com](www.codewars.com/r/jzxX0Q)
+  - [x] [github.com](github.com)
+    - [x] follow dandgerson
+  - [x] [linkedin.com](https://www.linkedin.com)
+    - [x] follow dandgerson
+  - [x] [codewars.com](www.codewars.com/r/jzxX0Q)
     - [ ] follow dandgerson
   - [ ] [twitter.com](twitter.com)
     - [ ] follow dandgerson
