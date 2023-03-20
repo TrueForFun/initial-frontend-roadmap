@@ -9,17 +9,18 @@
     - [x] follow dandgerson
   - [x] [codewars.com](www.codewars.com/r/jzxX0Q)
     - [ ] follow dandgerson
-  - [ ] [twitter.com](twitter.com)
-    - [ ] follow dandgerson
+  - [x] [twitter.com](twitter.com)
+    - [x] follow dandgerson
   - [ ] [codersrank.io](https://profile.codersrank.io/register?utm_source=invitation&utm_medium=copy&utm_campaign=62097a2a0ce5490001f23858)
     - [ ] follow dandgerson
   - [ ] [scrum.org](https://www.scrum.org/)
 
 - [ ] [Complete Beginner Learning Path](https://frontendmasters.com/learn/beginner/)
 
-  - [ ] [Complete Intro to Web Development, v3](https://frontendmasters.com/courses/web-development-v3/)
+  - [x] [Complete Intro to Web Development, v3](https://frontendmasters.com/courses/web-development-v3/)
+  - [x] [Getting Started with JavaScript, v2](https://frontendmasters.com/courses/getting-started-javascript-v2/)
+  - [-] [You_Dont_Know_JS_Up_and_Going](https://xiaoguo.net/~books/Program/You_Dont_Know_JS_Up_and_Going.pdf)
   - [ ] [Getting Started with CSS](https://frontendmasters.com/courses/getting-started-css/)
-  - [ ] [Getting Started with JavaScript, v2](https://frontendmasters.com/courses/getting-started-javascript-v2/)
   - [ ] [JavaScript: From First Steps to Professional](https://frontendmasters.com/courses/javascript-first-steps/)
   - [ ] [Website Accessibility, v2](https://frontendmasters.com/courses/accessibility-v2/)
 
