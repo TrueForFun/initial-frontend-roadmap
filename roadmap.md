@@ -19,8 +19,8 @@
 
   - [x] [Complete Intro to Web Development, v3](https://frontendmasters.com/courses/web-development-v3/)
   - [x] [Getting Started with JavaScript, v2](https://frontendmasters.com/courses/getting-started-javascript-v2/)
-  - [-] [You_Dont_Know_JS_Up_and_Going](https://xiaoguo.net/~books/Program/You_Dont_Know_JS_Up_and_Going.pdf)
-  - [ ] [Getting Started with CSS](https://frontendmasters.com/courses/getting-started-css/)
+  - [x] [You_Dont_Know_JS_Up_and_Going](https://xiaoguo.net/~books/Program/You_Dont_Know_JS_Up_and_Going.pdf)
+  - [x] [Getting Started with CSS](https://frontendmasters.com/courses/getting-started-css/)
   - [ ] [JavaScript: From First Steps to Professional](https://frontendmasters.com/courses/javascript-first-steps/)
   - [ ] [Website Accessibility, v2](https://frontendmasters.com/courses/accessibility-v2/)
 
