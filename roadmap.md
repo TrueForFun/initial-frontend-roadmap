@@ -1,7 +1,7 @@
 # RoadMap
 
 - [x] Generate internet NickName (ex. dandgerson)
-- [ ] Register accounts and creat profile
+- [ ] Register accounts and create profile
 
   - [x] [github.com](github.com)
     - [x] follow dandgerson
@@ -15,26 +15,35 @@
     - [ ] follow dandgerson
   - [ ] [scrum.org](https://www.scrum.org/)
 
-- [ ] [Complete Beginner Learning Path](https://frontendmasters.com/learn/beginner/)
+## HTML&CSS, JavaScript
 
-  - [x] [Complete Intro to Web Development, v3](https://frontendmasters.com/courses/web-development-v3/)
-  - [x] [Getting Started with JavaScript, v2](https://frontendmasters.com/courses/getting-started-javascript-v2/)
-  - [x] [You_Dont_Know_JS_Up_and_Going](https://xiaoguo.net/~books/Program/You_Dont_Know_JS_Up_and_Going.pdf)
-  - [x] [Getting Started with CSS](https://frontendmasters.com/courses/getting-started-css/)
-  - [ ] [JavaScript: From First Steps to Professional](https://frontendmasters.com/courses/javascript-first-steps/)
-  - [ ] [Website Accessibility, v2](https://frontendmasters.com/courses/accessibility-v2/)
+- [x] [Complete Intro to Web Development, v3](https://frontendmasters.com/courses/web-development-v3/)
+- [x] [Getting Started with JavaScript, v2](https://frontendmasters.com/courses/getting-started-javascript-v2/)
+- [x] [You_Dont_Know_JS_Up_and_Going](https://xiaoguo.net/~books/Program/You_Dont_Know_JS_Up_and_Going.pdf)
+- [x] [Getting Started with CSS](https://frontendmasters.com/courses/getting-started-css/)
+- [x] [JavaScript: From First Steps to Professional](https://frontendmasters.com/courses/javascript-first-steps/)
+- [x] [Introduction to CSS](https://frontendmasters.com/bootcamp/introduction-css/)
+- [x] [Calculator Project: JavaScript](https://frontendmasters.com/bootcamp/calculator-javascript/)
+- [x] [Using JavaScript in Websites](https://frontendmasters.com/bootcamp/javascript-in-websites/)
+- [x] [Introduction to JavaScript](https://frontendmasters.com/bootcamp/introduction-javascript/)
 
-- [ ] [Complete Bootcamp Learning Path](https://frontendmasters.com/bootcamp/)
+---
 
-  - [ ] [Introduction to HTML](https://frontendmasters.com/bootcamp/introduction-html/)
-  - [ ] [Introduction to CSS](https://frontendmasters.com/bootcamp/introduction-css/)
-  - [ ] [HTML Forms](https://frontendmasters.com/bootcamp/html-forms/)
-  - [ ] [Website Embeds & GitHub Pages](https://frontendmasters.com/bootcamp/embeds-github-pages/)
-  - [ ] [Calculator Project: HTML & CSS](https://frontendmasters.com/bootcamp/calculator-html-css/)
-  - [ ] [Introduction to JavaScript](https://frontendmasters.com/bootcamp/introduction-javascript/)
-  - [ ] [Calculator Project: JavaScript](https://frontendmasters.com/bootcamp/calculator-javascript/)
-  - [ ] [Using JavaScript in Websites](https://frontendmasters.com/bootcamp/javascript-in-websites/)
-  - [ ] [Build a Game Project: Feed-A-Star-Mole](https://frontendmasters.com/bootcamp/web-game-project/)
+- [ ] [Website Accessibility, v2](https://frontendmasters.com/courses/accessibility-v2/)
+- [ ] [Introduction to HTML](https://frontendmasters.com/bootcamp/introduction-html/)
+- [ ] [HTML Forms](https://frontendmasters.com/bootcamp/html-forms/)
+- [ ] [Website Embeds & GitHub Pages](https://frontendmasters.com/bootcamp/embeds-github-pages/)
+- [ ] [Calculator Project: HTML & CSS](https://frontendmasters.com/bootcamp/calculator-html-css/)
+- [ ] [Build a Game Project: Feed-A-Star-Mole](https://frontendmasters.com/bootcamp/web-game-project/)
+
+---
+
+## React
+
+- [ ] [Complete Intro to React, v8](https://frontendmasters.com/courses/complete-react-v8/)
+- [ ] [Intermediate React, v5](https://frontendmasters.com/courses/intermediate-react-v5/)
+
+## Additional
 
 - [ ] [Гоша Дударь Git курс по гиту (Git)](https://www.youtube.com/watch?v=bkNCylkzFRk&list=PL0lO_mIqDDFUesRNkeg46TDd5I6r7p2PI)
 - [ ] [JavaScript с нуля Кирупа Чиннатхамби (2021)](https://drive.google.com/file/d/1YHJM9KAQa_67c276V21OE693h_vJfx1_/view?usp=sharing)
