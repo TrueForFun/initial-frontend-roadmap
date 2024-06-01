@@ -1,13 +1,13 @@
 # RoadMap
 
-- [ ] Generate internet NickName (ex. dandgerson)
-- [ ] Register accounts and creat profile
+- [x] Generate internet NickName (ex. dandgerson)
+- [x] Register accounts and creat profile
 
-  - [ ] [github.com](github.com)
-    - [ ] follow dandgerson
-  - [ ] [linkedin.com](https://www.linkedin.com)
-    - [ ] follow dandgerson
-  - [ ] [codewars.com](www.codewars.com/r/jzxX0Q)
+  - [x] [github.com](github.com)
+    - [x] follow dandgerson
+  - [x] [linkedin.com](https://www.linkedin.com)
+    - [x] follow dandgerson
+  - [x] [codewars.com](www.codewars.com/r/jzxX0Q)
     - [ ] follow dandgerson
   - [ ] [twitter.com](twitter.com)
     - [ ] follow dandgerson
@@ -15,23 +15,23 @@
     - [ ] follow dandgerson
   - [ ] [scrum.org](https://www.scrum.org/)
 
-- [ ] [Complete Beginner Learning Path](https://frontendmasters.com/learn/beginner/)
+- [x] [Complete Beginner Learning Path](https://frontendmasters.com/learn/beginner/)
 
-  - [ ] [Complete Intro to Web Development, v3](https://frontendmasters.com/courses/web-development-v3/)
-  - [ ] [Getting Started with CSS](https://frontendmasters.com/courses/getting-started-css/)
-  - [ ] [Getting Started with JavaScript, v2](https://frontendmasters.com/courses/getting-started-javascript-v2/)
-  - [ ] [JavaScript: From First Steps to Professional](https://frontendmasters.com/courses/javascript-first-steps/)
+  - [x] [Complete Intro to Web Development, v3](https://frontendmasters.com/courses/web-development-v3/)
+  - [x] [Getting Started with CSS](https://frontendmasters.com/courses/getting-started-css/)
+  - [x] [Getting Started with JavaScript, v2](https://frontendmasters.com/courses/getting-started-javascript-v2/)
+  - [x] [JavaScript: From First Steps to Professional](https://frontendmasters.com/courses/javascript-first-steps/)
   - [ ] [Website Accessibility, v2](https://frontendmasters.com/courses/accessibility-v2/)
 
 - [ ] [Complete Bootcamp Learning Path](https://frontendmasters.com/bootcamp/)
 
-  - [ ] [Introduction to HTML](https://frontendmasters.com/bootcamp/introduction-html/)
-  - [ ] [Introduction to CSS](https://frontendmasters.com/bootcamp/introduction-css/)
+  - [x] [Introduction to HTML](https://frontendmasters.com/bootcamp/introduction-html/)
+  - [x] [Introduction to CSS](https://frontendmasters.com/bootcamp/introduction-css/)
   - [ ] [HTML Forms](https://frontendmasters.com/bootcamp/html-forms/)
   - [ ] [Website Embeds & GitHub Pages](https://frontendmasters.com/bootcamp/embeds-github-pages/)
-  - [ ] [Calculator Project: HTML & CSS](https://frontendmasters.com/bootcamp/calculator-html-css/)
+  - [x] [Calculator Project: HTML & CSS](https://frontendmasters.com/bootcamp/calculator-html-css/)
   - [ ] [Introduction to JavaScript](https://frontendmasters.com/bootcamp/introduction-javascript/)
-  - [ ] [Calculator Project: JavaScript](https://frontendmasters.com/bootcamp/calculator-javascript/)
+  - [x] [Calculator Project: JavaScript](https://frontendmasters.com/bootcamp/calculator-javascript/)
   - [ ] [Using JavaScript in Websites](https://frontendmasters.com/bootcamp/javascript-in-websites/)
   - [ ] [Build a Game Project: Feed-A-Star-Mole](https://frontendmasters.com/bootcamp/web-game-project/)
 
